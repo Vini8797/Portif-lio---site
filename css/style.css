@@ -54,7 +54,6 @@ nav a:hover {
   font-size: 1.2rem;
 }
 
-/* Sessões */
 section {
   padding: 3rem 2rem;
   max-width: 800px;
@@ -67,7 +66,6 @@ section h2 {
   padding-bottom: 0.5rem;
 }
 
-/* Projetos */
 .projeto {
   background: white;
   padding: 1rem;
@@ -89,7 +87,6 @@ section h2 {
   text-decoration: underline;
 }
 
-/* Rodapé */
 footer {
   background-color: #1e1e2f;
   color: white;
